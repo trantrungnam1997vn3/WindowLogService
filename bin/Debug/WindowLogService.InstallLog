@@ -102,3 +102,68 @@ Affected parameters are:
    logfile = D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\WindowLogService.InstallLog
    assemblypath = D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\WindowLogService.exe
 Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Installing assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Project\WindowLogService\bin\Debug\WindowLogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\WindowLogService\bin\Debug\WindowLogService.InstallLog
+   assemblypath = D:\Project\WindowLogService\bin\Debug\WindowLogService.exe
+Restoring event log to previous state for source Service1.

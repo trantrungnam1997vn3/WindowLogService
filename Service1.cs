@@ -18,7 +18,7 @@ namespace WindowsService1
     {
         static Service1()
         {
-            DOMConfigurator.Configure();
+            XmlConfigurator.Configure();
         }
 
         public Service1()
@@ -212,6 +212,7 @@ namespace WindowsService1
             }
         }
 
+        // Note: Read it again
         protected void TimerSend_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
             try
