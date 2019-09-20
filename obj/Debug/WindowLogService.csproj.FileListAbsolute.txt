@@ -1,0 +1,15 @@
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\WindowLogService.exe.config
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\WindowLogService.exe
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\WindowLogService.pdb
+D:\IdentityServer\src\WindowLogService\WindowLogService\obj\Debug\WindowLogService.ProjectInstaller.resources
+D:\IdentityServer\src\WindowLogService\WindowLogService\obj\Debug\WindowLogService.csproj.GenerateResource.Cache
+D:\IdentityServer\src\WindowLogService\WindowLogService\obj\Debug\WindowLogService.exe
+D:\IdentityServer\src\WindowLogService\WindowLogService\obj\Debug\WindowLogService.pdb
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\log4net.dll
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\Newtonsoft.Json.dll
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\RabbitMQ.Client.dll
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\log4net.xml
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\Newtonsoft.Json.xml
+D:\IdentityServer\src\WindowLogService\WindowLogService\bin\Debug\RabbitMQ.Client.xml
